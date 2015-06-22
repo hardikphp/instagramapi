@@ -1,0 +1,3 @@
+<FilesMatch "^(config.php|config.php.sample)$">
+    deny from all
+</FilesMatch>
